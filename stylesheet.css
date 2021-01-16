@@ -1,17 +1,20 @@
 body{
   background-color: white;
-  font-family: verdana;
-  font-size: 15px;
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 20px;
   
 }
 #about{
-  background-color:#d2d4d4;
-  width:300px;
-  height:140px;
+  background-color: white;
+  width: 300px;
+  height: 140px;
   
 }
-h3{
-  color: black;
+h4{
+  color: #E49C90;
+  font-size: 35px;
+  font-family: 'Brush Script MT', cursive;
+  
 }
 p{
   color: black;
